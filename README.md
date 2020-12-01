@@ -18,6 +18,6 @@
 <li><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></li>
 
 <!-- Here are some ideas to get you started: -->
-🔭 I’m currently working on getting a new job 🛠
-I’m currently learning 🌱, looking to collaborate 👯 and for help 🤔 with... all of the above technologies :D
-⚡ Fun fact: I like elevators. Not quite a fun fact, but...
+<p>🔭 I’m currently working on getting a new job 🛠</p>
+<p>I’m currently learning 🌱, looking to collaborate 👯 and for help 🤔 with... all of the above technologies :D</p>
+<p>⚡ Fun fact: I like elevators. Not quite a fun fact, but...</p>
